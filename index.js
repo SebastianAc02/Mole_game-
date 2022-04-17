@@ -36,7 +36,7 @@ function startGame() {
   peep();
 
 
-  setTimeout(() => timeUp = true, 10000
+  setTimeout(() => timeUp = true, 100000
   );
 
 
